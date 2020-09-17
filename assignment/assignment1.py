@@ -1,6 +1,4 @@
 # Author: Xinyu Ma
-# Date: 04.04.2020
-# FIT 2004 Assignment 1
 
 import math
 import random
